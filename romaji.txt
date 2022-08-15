@@ -1,0 +1,92 @@
+otouto-younger brother
+imouto-younger sister
+ani-older brother
+ane-older sister
+kyoudai-siblings
+haha-mother
+chichi-father
+kazoku-family
+goryoshin-parents
+hitori-one person
+futari-two people
+sannin-three people
+yonnin-four people
+gonnin-five people
+dokunin-six people
+nananin/shichinin-seven people
+hachinin-eight people
+kunin/kyunin-nine people
+kare-he
+kanojyo-she
+neko-cat
+inu-dog
+hajimemashite-nice to meet you
+yorushiku onegaishimasu-nice to meet you
+kochirakoso-likewise/same here
+ohayo-good morning
+konnichiwa-good afternoon
+konbanwa-good evening
+oyasuminasai-good night
+sayonada-goodbye
+jah mata-see you again
+jyane-bye
+arigato gozaimasu-thank you very much
+sensei-sensei
+domo-thanks
+dozo-here you are
+doitashimashite-you're welcome
+onegaishimasu-please
+aka(i)-red(adj)
+ao(i)-blue(adj)
+shido(i)-white(adj)
+osake-alcohol
+yasai-vegetable
+kudamono-fruit
+nomu-drink
+taberu-eat
+kiru-wear
+yoru-night
+yomu-read
+ginko-bank
+gako-school?
+gakusei-student
+nato-fermented soybeans
+teriyaki-teriyaki
+ski-like
+hoshi-want
+amai-sweet
+kumori-cloudy
+harei-sunny
+soto-outside
+ie-house
+heya-room
+hiru-daytime
+tori-bird
+sumimumasen-excuse me
+gomennasai-sorry
+sodesu-thats right
+chigaimasu-thats not correct
+onamai-name
+anata-you
+okaasan-mother
+otousan-father
+obaasan-grandmother
+ojisan-grandfather
+meh-eye
+mimi-ear
+senaka-back
+manga-manga
+kitanai-dirty
+enpitsu-pencil
+ocha-green tea
+kippu-ticket
+kyo-today
+fuyu-winter
+natsu-summer
+chizu-map
+denwa-telephone
+kaze-wind
+kaban-school bag
+emoji-emoji
+bento-boxed lunch
+uchi-one's household
